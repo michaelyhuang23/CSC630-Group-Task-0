@@ -8,4 +8,5 @@
 * Different bases
 * Periodic table elements
 * Legos
-* 
+* Highlighted people
+* Tree Map
